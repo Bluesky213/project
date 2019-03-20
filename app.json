@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/scrollViewPage/scrollViewPage",
+    "pages/itemPage1/itemPage1",
+    "pages/itemPage2/itemPage2",
+    "pages/itemPage3/itemPage3",
+    "pages/itemPage4/itemPage4",
+    "pages/itemPage5/itemPage5",
+    "pages/itemPage7/itemPage7",
+    "pages/itemPage8/itemPage8",
+    "pages/itemPage6/itemPage6",
+    "pages/menuPage/menuPage"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}

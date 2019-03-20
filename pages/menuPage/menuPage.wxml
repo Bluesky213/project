@@ -1,0 +1,2 @@
+<view style="width: 100%;height: auto;"></view>
+<include src="../scrollViewPage/scrollViewPage"></include>

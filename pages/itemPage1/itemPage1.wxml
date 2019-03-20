@@ -1,0 +1,4 @@
+<!--pages/itemPage1/itemPage1.wxml-->
+<view class='Container'> 
+  <view class='pink'></view>
+</view>
